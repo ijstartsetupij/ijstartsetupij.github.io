@@ -1,6 +1,6 @@
 # ij.start.canon
 
-[![ij.start.canon](get-start.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](get-start.png)](https://can.printredir.com)
 
 Canon Printers are the best wireless printers that can be easily connected with your ac device. Install the driver software on your mac using the simple steps from **[ij.start.canon](https://ijstartsetupij.github.io/)** and connect it for getting started with it. Follow the steps for connecting wireless canon ij setup with your mac device from its official website.
 
